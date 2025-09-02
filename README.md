@@ -1,8 +1,5 @@
 # Práctica II – Sistema de Inventario de Automóviles en Prolog  
 
-## 👥 Equipo  
-**404 Booleans Not Found**  
-
 ### Autores  
 - Sebastián Sánchez Gómez  
 - Cristóbal Machado Sánchez  
@@ -25,7 +22,6 @@
 ---
 
 ## 📚 Fuentes de información  
-- Enunciado de la práctica (Practice_II_Logic_Progr_v2_Narváez.pdf).  
 - Documentación oficial de SWI-Prolog.  
 - Apoyo de IA (ChatGPT) para estructuración del README y ejemplos de consultas.  
 
@@ -75,3 +71,4 @@ Result = [(sedan, 2020, focus), (suv, 2022, explorer), (pickup, 2021, ranger)].
 
 ?- test_case3(Result).
 Result = result([(corolla, 88000000), (focus, 84000000), (civic, 92000000), (serie3, 180000000)], 444000000).
+
