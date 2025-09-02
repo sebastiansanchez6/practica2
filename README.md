@@ -1,8 +1,4 @@
 # Práctica II – Sistema de Gestión de Vehículos en Prolog  
-
-## 👥 Equipo  
-**404 Booleans Not Found**  
-
 ### Autores  
 - Sebastián Sánchez Gómez  
 - Cristóbal Machado Sánchez  
@@ -25,7 +21,6 @@
 ---
 
 ## 📚 Fuentes de información  
-- Enunciado de la práctica (Practice_II_Logic_Progr_v2_Narváez.pdf).  
 - Documentación oficial de SWI-Prolog.  
 - Apoyo de IA (ChatGPT) para estructuración del README y ejemplos de consultas.  
 
